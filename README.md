@@ -1,1 +1,1 @@
-# animate-login
+# animated-login
